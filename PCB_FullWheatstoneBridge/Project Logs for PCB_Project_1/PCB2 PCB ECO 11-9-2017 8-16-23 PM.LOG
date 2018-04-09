@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C7 Old Footprint=AVX-TAJ-A-2_L New Footprint=AVX-TAJ-A-2_N
+Change Component Footprint: Designator=C8 Old Footprint=AVX-TAJ-A-2_L New Footprint=AVX-TAJ-A-2_N
+Added Room: Name=F
+Added Room: Name=Sheet1
+Added Room: Name=WB

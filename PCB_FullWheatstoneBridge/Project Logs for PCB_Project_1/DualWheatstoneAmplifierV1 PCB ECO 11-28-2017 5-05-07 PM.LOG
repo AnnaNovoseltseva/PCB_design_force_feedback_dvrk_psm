@@ -1,0 +1,118 @@
+Removed Pin From Net: NetName=+5V Pin=C14_Amp1-1
+Removed Pin From Net: NetName=GND Pin=C14_Amp1-2
+Removed Pin From Net: NetName=+5V Pin=C14_Amp2-1
+Removed Pin From Net: NetName=GND Pin=C14_Amp2-2
+Removed Pin From Net: NetName=+5V Pin=C16_Amp1-1
+Removed Pin From Net: NetName=GND Pin=C16_Amp1-2
+Removed Pin From Net: NetName=+5V Pin=C16_Amp2-1
+Removed Pin From Net: NetName=GND Pin=C16_Amp2-2
+Removed Pin From Net: NetName=-5V Pin=C18_Amp1-1
+Removed Pin From Net: NetName=GND Pin=C18_Amp1-2
+Removed Pin From Net: NetName=-5V Pin=C18_Amp2-1
+Removed Pin From Net: NetName=GND Pin=C18_Amp2-2
+Removed Pin From Net: NetName=-5V Pin=C19_Amp1-1
+Removed Pin From Net: NetName=GND Pin=C19_Amp1-2
+Removed Pin From Net: NetName=-5V Pin=C19_Amp2-1
+Removed Pin From Net: NetName=GND Pin=C19_Amp2-2
+Removed Pin From Net: NetName=+5V Pin=R7_Amp1-2
+Removed Pin From Net: NetName=+5V Pin=R7_Amp2-2
+Removed Pin From Net: NetName=+5V Pin=R8_Amp1-2
+Removed Pin From Net: NetName=+5V Pin=R8_Amp2-2
+Removed Member From Class: ClassName=Amp1 Member=C14_Amp1
+Removed Member From Class: ClassName=Amp2 Member=C14_Amp2
+Removed Member From Class: ClassName=Amp1 Member=C16_Amp1
+Removed Member From Class: ClassName=Amp2 Member=C16_Amp2
+Removed Member From Class: ClassName=Amp1 Member=C18_Amp1
+Removed Member From Class: ClassName=Amp2 Member=C18_Amp2
+Removed Member From Class: ClassName=Amp1 Member=C19_Amp1
+Removed Member From Class: ClassName=Amp2 Member=C19_Amp2
+Removed Member From Class: ClassName=Amp1 Member=R7_Amp1
+Removed Member From Class: ClassName=Amp2 Member=R7_Amp2
+Removed Member From Class: ClassName=Amp1 Member=R8_Amp1
+Removed Member From Class: ClassName=Amp2 Member=R8_Amp2
+Change Component Designator: OldDesignator=P2_Amp1 NewDesignator=P2_A1
+Change Component Designator: OldDesignator=P2_Amp2 NewDesignator=P2_A2
+Change Component Designator: OldDesignator=R5_Amp1 NewDesignator=R5_A1
+Change Component Designator: OldDesignator=R5_Amp2 NewDesignator=R5_A2
+Change Component Designator: OldDesignator=R6_Amp1 NewDesignator=R6_A1
+Change Component Designator: OldDesignator=R6_Amp2 NewDesignator=R6_A2
+Change Component Designator: OldDesignator=R12_Amp1 NewDesignator=R12_A1
+Change Component Designator: OldDesignator=R12_Amp2 NewDesignator=R12_A2
+Change Component Designator: OldDesignator=R13_Amp1 NewDesignator=R13_A1
+Change Component Designator: OldDesignator=R13_Amp2 NewDesignator=R13_A2
+Change Component Designator: OldDesignator=R28_Amp1 NewDesignator=R28_A1
+Change Component Designator: OldDesignator=R28_Amp2 NewDesignator=R28_A2
+Change Component Designator: OldDesignator=U4_Amp1 NewDesignator=U4_A1
+Change Component Designator: OldDesignator=U4_Amp2 NewDesignator=U4_A2
+Added Component: Designator=C14_A1(1608[0603])
+Added Component: Designator=C14_A2(1608[0603])
+Added Component: Designator=C16_A1(1608[0603])
+Added Component: Designator=C16_A2(1608[0603])
+Added Component: Designator=C18_A1(1608[0603])
+Added Component: Designator=C18_A2(1608[0603])
+Added Component: Designator=C19_A1(1608[0603])
+Added Component: Designator=C19_A2(1608[0603])
+Added Component: Designator=R7_A1(RESC1608X55X25ML10T15)
+Added Component: Designator=R7_A2(RESC1608X55X25ML10T15)
+Added Component: Designator=R8_A1(RESC1608X55X25ML10T15)
+Added Component: Designator=R8_A2(RESC1608X55X25ML10T15)
+Added Pin To Net: NetName=+5V Pin=C14_A1-1
+Added Pin To Net: NetName=GND Pin=C14_A1-2
+Added Pin To Net: NetName=+5V Pin=C14_A2-1
+Added Pin To Net: NetName=GND Pin=C14_A2-2
+Added Pin To Net: NetName=+5V Pin=C16_A1-1
+Added Pin To Net: NetName=GND Pin=C16_A1-2
+Added Pin To Net: NetName=+5V Pin=C16_A2-1
+Added Pin To Net: NetName=GND Pin=C16_A2-2
+Added Pin To Net: NetName=-5V Pin=C18_A1-1
+Added Pin To Net: NetName=GND Pin=C18_A1-2
+Added Pin To Net: NetName=-5V Pin=C18_A2-1
+Added Pin To Net: NetName=GND Pin=C18_A2-2
+Added Pin To Net: NetName=-5V Pin=C19_A1-1
+Added Pin To Net: NetName=GND Pin=C19_A1-2
+Added Pin To Net: NetName=-5V Pin=C19_A2-1
+Added Pin To Net: NetName=GND Pin=C19_A2-2
+Added Pin To Net: NetName=+5V Pin=R7_A1-2
+Added Pin To Net: NetName=+5V Pin=R7_A2-2
+Added Pin To Net: NetName=+5V Pin=R8_A1-2
+Added Pin To Net: NetName=+5V Pin=R8_A2-2
+Change Net Name : Old Net Name=AMP_GAIN_1_Amp1 New Net Name=AMP_GAIN_1_A1
+Change Net Name : Old Net Name=AMP_GAIN_1_Amp2 New Net Name=AMP_GAIN_1_A2
+Change Net Name : Old Net Name=AMP_GAIN_2_Amp1 New Net Name=AMP_GAIN_2_A1
+Change Net Name : Old Net Name=AMP_GAIN_2_Amp2 New Net Name=AMP_GAIN_2_A2
+Change Net Name : Old Net Name=AMP_REF_V_Amp1 New Net Name=AMP_REF_V_A1
+Change Net Name : Old Net Name=AMP_REF_V_Amp2 New Net Name=AMP_REF_V_A2
+Change Net Name : Old Net Name=ANALOG_OUT_Amp1 New Net Name=ANALOG_OUT_A1
+Change Net Name : Old Net Name=ANALOG_OUT_Amp2 New Net Name=ANALOG_OUT_A2
+Added Pin To Net: NetName=AMP_INPUT_NEG_A1 Pin=P2_A1-4
+Added Pin To Net: NetName=AMP_INPUT_NEG_A1 Pin=R7_A1-1
+Added Pin To Net: NetName=AMP_INPUT_NEG_A1 Pin=U4_A1-2
+Added Net: Name=AMP_INPUT_NEG_A1
+Added Pin To Net: NetName=AMP_INPUT_NEG_A2 Pin=P2_A2-4
+Added Pin To Net: NetName=AMP_INPUT_NEG_A2 Pin=R7_A2-1
+Added Pin To Net: NetName=AMP_INPUT_NEG_A2 Pin=U4_A2-2
+Added Net: Name=AMP_INPUT_NEG_A2
+Added Pin To Net: NetName=AMP_INPUT_POS_A1 Pin=P2_A1-1
+Added Pin To Net: NetName=AMP_INPUT_POS_A1 Pin=R8_A1-1
+Added Pin To Net: NetName=AMP_INPUT_POS_A1 Pin=U4_A1-3
+Added Net: Name=AMP_INPUT_POS_A1
+Added Pin To Net: NetName=AMP_INPUT_POS_A2 Pin=P2_A2-1
+Added Pin To Net: NetName=AMP_INPUT_POS_A2 Pin=R8_A2-1
+Added Pin To Net: NetName=AMP_INPUT_POS_A2 Pin=U4_A2-3
+Added Net: Name=AMP_INPUT_POS_A2
+Change Class Name : Old Net Name=Amp1 New Net Name=A1
+Change Class Name : Old Net Name=Amp2 New Net Name=A2
+Added Member To Class: ClassName=A1 Member=Component C14_A1 (C14) Cap Semi
+Added Member To Class: ClassName=A2 Member=Component C14_A2 (C14) Cap Semi
+Added Member To Class: ClassName=A1 Member=Component C16_A1 (C16) Cap Semi
+Added Member To Class: ClassName=A2 Member=Component C16_A2 (C16) Cap Semi
+Added Member To Class: ClassName=A1 Member=Component C18_A1 (C18) Cap Semi
+Added Member To Class: ClassName=A2 Member=Component C18_A2 (C18) Cap Semi
+Added Member To Class: ClassName=A1 Member=Component C19_A1 (C19) Cap Semi
+Added Member To Class: ClassName=A2 Member=Component C19_A2 (C19) Cap Semi
+Added Member To Class: ClassName=A1 Member=Component R7_A1 (R7) 120
+Added Member To Class: ClassName=A2 Member=Component R7_A2 (R7) 120
+Added Member To Class: ClassName=A1 Member=Component R8_A1 (R8) 120
+Added Member To Class: ClassName=A2 Member=Component R8_A2 (R8) 120
+Added Room: Name=A1
+Added Room: Name=A2

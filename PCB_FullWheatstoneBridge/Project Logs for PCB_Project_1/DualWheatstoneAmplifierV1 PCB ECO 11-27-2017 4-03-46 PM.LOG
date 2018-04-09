@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetR5_Amp1_2 New Net Name=AMP_GAIN_1_Amp1
+Change Net Name : Old Net Name=NetR5_Amp1_3 New Net Name=AMP_GAIN_2_Amp1
+Change Net Name : Old Net Name=NetR5_Amp2_2 New Net Name=AMP_GAIN_1_Amp2
+Change Net Name : Old Net Name=NetR5_Amp2_3 New Net Name=AMP_GAIN_2_Amp2
+Change Net Name : Old Net Name=NetR12_Amp1_1 New Net Name=AMP_REF_V_Amp1
+Change Net Name : Old Net Name=NetR12_Amp2_1 New Net Name=AMP_REF_V_Amp2

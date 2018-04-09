@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=GND Pin=U3-5
+Removed Member From Class: ClassName=Sheet1 Member=R
+Change Component Designator: OldDesignator=R NewDesignator=R?
+Added Component: Designator=R6(RESC1608X55X25ML10T15)
+Added Component: Designator=R?(Trimpot_Cut_tape_3.4x3.4x2)
+Added Component: Designator=R?(Trimpot_Cut_tape_3.4x3.4x2)
+Added Component: Designator=R?(Trimpot_Cut_tape_3.4x3.4x2)
+Added Component: Designator=R?(Trimpot_Cut_tape_3.4x3.4x2)
+Added Component: Designator=R?(Trimpot_Cut_tape_3.4x3.4x2)
+Added Pin To Net: NetName=+5V Pin=R6-2
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Pin To Net: NetName=NetR1_2 Pin=R?-2
+Added Pin To Net: NetName=NetR10_2 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-3
+Added Pin To Net: NetName=GND Pin=R?-3
+Added Pin To Net: NetName=NetR1_1 Pin=R?-3
+Added Pin To Net: NetName=NetR4_2 Pin=R?-3
+Added Pin To Net: NetName=NetR10_1 Pin=R?-3
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R?-2
+Added Pin To Net: NetName=NetR6_1 Pin=U3-5
+Added Net: Name=NetR6_1
+Added Member To Class: ClassName=Sheet1 Member=Component R? 20k

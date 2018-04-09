@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=CMP-0411-00002-1 New DesignItemId=CMP-2000-05118-1
+Change Component Footprint: Designator=J1 Old Footprint=MOLX-67503-1020_V New Footprint=FCI-10118192-0001LF-5_V
+Change Component Comment : Designator=J1 Old Comment=67503-1020 New Comment=10118192-0001LF
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-11

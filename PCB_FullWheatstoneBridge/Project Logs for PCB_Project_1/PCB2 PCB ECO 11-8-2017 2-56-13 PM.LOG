@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=NetR1_1 Pin=R1-2
+Removed Pin From Net: NetName=+5V Pin=R5-2
+Removed Pin From Net: NetName=NetR4_2 Pin=R5-3
+Removed Pin From Net: NetName=+5V Pin=R10-1
+Removed Pin From Net: NetName=+5V Pin=R10-2
+Removed Pin From Net: NetName=NetR9_2 Pin=R10-3
+Removed Pin From Net: NetName=NetR1_1 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U2-4
+Change Component DesignItemId : Designator=R10 Old DesignItemId=CMP-2000-05586-1 New DesignItemId=CMP-1012-00067-1
+Change Component DesignItemId : Designator=R5 Old DesignItemId=CMP-2000-05586-1 New DesignItemId=CMP-1012-00129-1
+Change Component DesignItemId : Designator=R1 Old DesignItemId=CMP-2000-05591-1 New DesignItemId=CMP-1012-00067-1
+Change Component DesignItemId : Designator=R6 Old DesignItemId=CMP-2000-05591-1 New DesignItemId=CMP-1659-00009-3
+Change Component Footprint: Designator=R5 Old Footprint=BOUR-3313J-1_V New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=R10 Old Footprint=BOUR-3313J-1_V New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=R1 Old Footprint=BOUR-3386H New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=R6 Old Footprint=BOUR-3386H New Footprint=RESC1608X55X25ML10T15
+Change Component Comment : Designator=R5 Old Comment=20k New Comment=200K
+Change Component Comment : Designator=R10 Old Comment=20k New Comment=510
+Change Component Comment : Designator=R6 Old Comment=500 New Comment=1k
+Change Component Comment : Designator=R1 Old Comment=500 New Comment=510
+Added Component: Designator=C9(CAPC1608X87X35ML15T15)
+Added Component: Designator=C11(CAPC1608X90X20NL10)
+Added Component: Designator=R11(RESC0603(1608)_L)
+Added Component: Designator=R?(BOUR-3313J-1_V)
+Added Component: Designator=R?(BOUR-3313J-1_V)
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=-5V Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=-5V Pin=C11-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-2
+Added Pin To Net: NetName=+5V Pin=R6-2
+Added Pin To Net: NetName=+5V Pin=R11-1
+Added Pin To Net: NetName=NetR9_2 Pin=R11-2
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Pin To Net: NetName=NetR4_2 Pin=R?-3
+Added Pin To Net: NetName=NetR9_2 Pin=R?-3
+Added Pin To Net: NetName=NetR1_1 Pin=U1-8
+Added Pin To Net: NetName=-5V Pin=U2-4
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U3-8
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U3-1
+Added Net: Name=NetR10_2
+Added Member To Class: ClassName=Sheet1 Member=Component C9 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C11 1u
+Added Member To Class: ClassName=Sheet1 Member=Component R11 200K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 20k
+Added Room: Name=Sheet1

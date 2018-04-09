@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=ENC_CONV New Net Name=ADC_CONV
+Change Net Name : Old Net Name=ENC_SCK New Net Name=ADC_SCK
+Change Net Name : Old Net Name=ENC_SDI New Net Name=ADC_SDI
+Change Net Name : Old Net Name=ENC_SDO New Net Name=ADC_SDO

@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=R7_Amp1 Old DesignItemId=CMP-1659-00034-1 New DesignItemId=CMP-1659-00009-3
+Change Component DesignItemId : Designator=R7_Amp2 Old DesignItemId=CMP-1659-00034-1 New DesignItemId=CMP-1659-00009-3
+Change Component DesignItemId : Designator=R8_Amp1 Old DesignItemId=CMP-1659-00034-1 New DesignItemId=CMP-1659-00009-3
+Change Component DesignItemId : Designator=R8_Amp2 Old DesignItemId=CMP-1659-00034-1 New DesignItemId=CMP-1659-00009-3
+Change Component Footprint: Designator=R7_Amp1 Old Footprint=RESC1608X55X25NL10T15 New Footprint=RESC1608X55X25ML10T15
+Change Component Footprint: Designator=R7_Amp2 Old Footprint=RESC1608X55X25NL10T15 New Footprint=RESC1608X55X25ML10T15
+Change Component Footprint: Designator=R8_Amp1 Old Footprint=RESC1608X55X25NL10T15 New Footprint=RESC1608X55X25ML10T15
+Change Component Footprint: Designator=R8_Amp2 Old Footprint=RESC1608X55X25NL10T15 New Footprint=RESC1608X55X25ML10T15

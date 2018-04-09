@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=P3-4
+Change Component DesignItemId : Designator=P3 Old DesignItemId=CMP-2000-05625-1 New DesignItemId=Header 3
+Change Component Footprint: Designator=P3 Old Footprint=TECO-5-103414-2_V New Footprint=HDR1X3
+Change Component Comment : Designator=P3 Old Comment=SG New Comment=Header 3

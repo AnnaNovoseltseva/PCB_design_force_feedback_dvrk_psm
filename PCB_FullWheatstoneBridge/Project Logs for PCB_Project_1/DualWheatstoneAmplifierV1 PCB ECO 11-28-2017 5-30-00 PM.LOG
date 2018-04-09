@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=U3-4
+Change Component DesignItemId : Designator=U3 Old DesignItemId=CMP-0244-00199-1 New DesignItemId=CMP-2000-04937-1
+Change Component Footprint: Designator=U3 Old Footprint=TO-263_M New Footprint=FAIR-TO-220-3
+Change Component Comment : Designator=U3 Old Comment=L7805ABD2T-TR New Comment=LM7805ACT
+Added Pin To Net: NetName=GND Pin=U3-2

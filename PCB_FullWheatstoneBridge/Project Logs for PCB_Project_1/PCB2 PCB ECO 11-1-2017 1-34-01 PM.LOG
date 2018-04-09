@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1608X87X35LL15T15 New Footprint=CAPC1608X87X35ML15T15
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1608X87X35LL15T15 New Footprint=CAPC1608X87X35ML15T15
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1608X87X35LL15T15 New Footprint=CAPC1608X87X35ML15T15
+Change Component Footprint: Designator=C10 Old Footprint=CAPC1608X87X35LL15T15 New Footprint=CAPC1608X87X35ML15T15
+Change Component Footprint: Designator=C13 Old Footprint=CAPC1608X87X35LL15T15 New Footprint=CAPC1608X87X35ML15T15
+Change Component Footprint: Designator=U2 Old Footprint=D0008A_L New Footprint=D0008A_M
+Added Pin To Net: NetName=-5V Pin=C13-2
+Added Room: Name=Sheet1

@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=-5V Pin=C13-2
+Removed Pin From Net: NetName=NetR4_2 Pin=R5-2
+Removed Pin From Net: NetName=NetR9_2 Pin=R10-2
+Removed Pin From Net: NetName=NetR1_1 Pin=U1-8
+Removed Pin From Net: NetName=NetR6_1 Pin=U3-8
+Removed Pin From Net: NetName=NetP3_3 Pin=U4-1
+Removed Pin From Net: NetName=NetP3_3 Pin=U4-2
+Removed Pin From Net: NetName=NetR9_2 Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U4-4
+Removed Pin From Net: NetName=+5V Pin=U4-8
+Removed Member From Class: ClassName=Sheet1 Member=U4
+Change Component DesignItemId : Designator=R1 Old DesignItemId=CMP-1012-00060-1 New DesignItemId=CMP-2000-05591-1
+Change Component DesignItemId : Designator=R6 Old DesignItemId=CMP-1012-00060-1 New DesignItemId=CMP-2000-05591-1
+Change Component DesignItemId : Designator=R5 Old DesignItemId=CMP-1659-00054-1 New DesignItemId=CMP-2000-05586-1
+Change Component DesignItemId : Designator=R10 Old DesignItemId=CMP-1659-00054-1 New DesignItemId=CMP-2000-05586-1
+Change Component DesignItemId : Designator=C3 Old DesignItemId=CMP-1662-00005-3 New DesignItemId=CMP-2000-05987-1
+Change Component DesignItemId : Designator=C4 Old DesignItemId=CMP-1662-00005-3 New DesignItemId=CMP-2000-05987-1
+Change Component DesignItemId : Designator=C7 Old DesignItemId=CMP-1662-00005-3 New DesignItemId=CMP-2000-05987-1
+Change Component DesignItemId : Designator=C9 Old DesignItemId=CMP-1662-00005-3 New DesignItemId=CMP-2000-05987-1
+Change Component DesignItemId : Designator=C10 Old DesignItemId=CMP-1662-00005-3 New DesignItemId=CMP-2000-05987-1
+Change Component DesignItemId : Designator=C13 Old DesignItemId=CMP-1662-00005-3 New DesignItemId=CMP-2000-05987-1
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1608X90X35LL10T15 New Footprint=CAPC1608X87X35LL15T15
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1608X90X35LL10T15 New Footprint=CAPC1608X87X35LL15T15
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1608X90X35LL10T15 New Footprint=CAPC1608X87X35LL15T15
+Change Component Footprint: Designator=C9 Old Footprint=CAPC1608X90X35LL10T15 New Footprint=CAPC1608X87X35LL15T15
+Change Component Footprint: Designator=C10 Old Footprint=CAPC1608X90X35LL10T15 New Footprint=CAPC1608X87X35LL15T15
+Change Component Footprint: Designator=C13 Old Footprint=CAPC1608X90X35LL10T15 New Footprint=CAPC1608X87X35LL15T15
+Change Component Footprint: Designator=U2 Old Footprint=D0008A_M New Footprint=D0008A_L
+Change Component Footprint: Designator=R1 Old Footprint=RESC0603(1608)_N New Footprint=BOUR-3386H
+Change Component Footprint: Designator=R6 Old Footprint=RESC0603(1608)_N New Footprint=BOUR-3386H
+Change Component Footprint: Designator=R5 Old Footprint=RESC1608X55X25LL10T15 New Footprint=BOUR-3313J-1_V
+Change Component Footprint: Designator=R10 Old Footprint=RESC1608X55X25LL10T15 New Footprint=BOUR-3313J-1_V
+Change Component Comment : Designator=C3 Old Comment=0.1u New Comment=0.01uF
+Change Component Comment : Designator=C4 Old Comment=0.1u New Comment=0.01uF
+Change Component Comment : Designator=C7 Old Comment=0.1u New Comment=0.01uF
+Change Component Comment : Designator=C9 Old Comment=0.1u New Comment=0.01uF
+Change Component Comment : Designator=C10 Old Comment=0.1u New Comment=0.01uF
+Change Component Comment : Designator=C13 Old Comment=0.1u New Comment=0.01uF
+Change Component Comment : Designator=R5 Old Comment=10k New Comment=20k
+Change Component Comment : Designator=R10 Old Comment=10k New Comment=20k
+Change Component Comment : Designator=R1 Old Comment=270 New Comment=500
+Change Component Comment : Designator=R6 Old Comment=270 New Comment=500
+Added Pin To Net: NetName=NetR1_1 Pin=R1-2
+Added Pin To Net: NetName=+5V Pin=R5-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-3
+Added Pin To Net: NetName=NetR6_1 Pin=R6-2
+Added Pin To Net: NetName=+5V Pin=R10-2
+Added Pin To Net: NetName=NetR9_2 Pin=R10-3
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Pin To Net: NetName=NetR9_2 Pin=U2-5
+Added Pin To Net: NetName=NetP3_3 Pin=U2-6
+Added Pin To Net: NetName=NetP3_3 Pin=U2-7
+Added Pin To Net: NetName=NetR6_1 Pin=U3-1
+Added Pin To Net: NetName=NetR1_3 Pin=R1-3
+Added Pin To Net: NetName=NetR1_3 Pin=U1-8
+Added Net: Name=NetR1_3
+Added Pin To Net: NetName=NetR6_3 Pin=R6-3
+Added Pin To Net: NetName=NetR6_3 Pin=U3-8
+Added Net: Name=NetR6_3
+Added Room: Name=Sheet1

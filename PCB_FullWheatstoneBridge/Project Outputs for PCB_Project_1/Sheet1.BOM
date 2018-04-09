@@ -1,0 +1,36 @@
+Bill of Material for 
+On 1/22/2018 at 3:24:08 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 10118192-0001LF     FCI-10118192-0001LF-5_V    1    J1                           Micro USB B Type Receptacle, -55 to 85 degC, 5-Pin SMD, RoHS, Tape and Reel 
+ 10k                 RESC1608X55X25ML10T15    2    R9, R18                      Chip Resistor, 1 KOhm, +/-1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel 
+ 150060RS75000       0603_A           4    5V, D1, RX1, TX1             SMD mono-color Chip LED, WL-SMCW, Red 
+ 1k                  RESC1608X55X25ML10T15    4    R12_Amp1, R12_Amp2, R28_Amp1 Chip Resistor, 1 KOhm, +/-1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel 
+                                           R28_Amp2
+ 200k                RESC1608X55X25ML10T15    2    R10, R19                     Chip Resistor, 1 KOhm, +/-1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel 
+ 20k                 Trimpot_Cut_tape_3.4x3.4x2    4    R11, R13_Amp1, R13_Amp2, R20                      
+ 430152043826        430152043826     1    SW1                          WS-TASV SMD Tact Switch 6X6 mm 
+ 500                 Trimpot_Cut_tape_3.4x3.4x2    2    R5_Amp1, R5_Amp2                                  
+ 510                 RESC0603(1608)_L    2    R6_Amp1, R6_Amp2             510R 0.1W 5% 0603 (1608 Metric)  SMD 
+ ABLS2-16.000MHZ-D4Y-T ABRA-ABLS2-2_V    1    X1                           Low Profile Surface Mount Microprocessor Crystal, 16.000 MHz +/-30 ppm, 180 Ohm, -40 to 85 degC, 2-Pin 11.4 x 4.7 x 3.3 mm SMD, RoHS, Tape and Reel 
+ ADC_LTC1865         LTC1865_SOIC8    1    U2                                                
+ ATmega88PA-AUR      32A_N            1    U1                           8-bit AVR Microcontroller, 8KB Flash, 512 Bytes EEPROM, 1KB SRAM, 32-pin TQFP, Industrial Grade (-40°C to 85°C), Reel 
+ Cap Semi            1608[0603]      26    C2, C3, C4, C5, C6, C9, C10  Capacitor (Semiconductor SIM Model) 
+                                           C13, C14_Amp1, C14_Amp2
+                                           C16_Amp1, C16_Amp2, C17
+                                           C18_Amp1, C18_Amp2, C19_Amp1
+                                           C19_Amp2, C23, C24, C25, C26
+                                           C27, C28, C29, C30, C31
+ FT232RL-Reel        SSOP-28_L        1    U7                           USB UART Asynchronous Serial Data Transfer Chip, 28-pin SSOP, Tape and Reel 
+ Header 3            HDR1X3           2    P1, P3                       Header, 3-Pin        
+ Header 3X2          HDR2X3           1    P6                           Header, 3-Pin, Dual row 
+ Header 5            HDR1X5           1    P5                           Header, 5-Pin        
+ LM7805ACT           FAIR-TO-220-3    1    U3                           Positive Voltage Regulator, 5 V, 1 A, 0 to 125 degC, 3-Pin TO-220, RoHS, Tube 
+ LM7905CT/NOPB       NDE0003A         1    U6                           3-Terminal Negative Regulator, 3-pin TO-220, Pb-Free 
+ LT1920              LT-S8-8_L        2    U4_Amp1, U4_Amp2             Single Channel, Resistor Gain Programmable, Precision Instrumentation Operational Amplifier, 0.8 MHz Typical GBW, 1.2 V/us Typical SR, 4.6 to 40 V, 8-Pin SOIC (S8-8), Commercial, Pb-Free 
+ NE5532ADR           D0008A_M         1    U5                           Dual Low-Noise Operational Amplifier, 10 to 30 V, 0 to 70 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br) 
+ Res3                J1-0603          9    R1, R2, R3, R4, R23, R24, R25 Resistor             
+                                           R26, R27
+ SG                  TECO-5-103414-2_V    2    P2_Amp1, P2_Amp2             Male Header, Pitch 2.54 mm, 1 x 4 Position, Height 14.199 mm, Tail Length 3.302 mm, -55 to 105 degC, RoHS, Rail/Tube 
+ TAJA475K016RNJ      AVX-TAJ-A-2_N    2    C7, C8                       Standard Tantalum, 4.7 uF, +/- 10%, 16 V, -55 to 125 degC, 2-Pin SMD (1206), RoHS, Tape and Reel 

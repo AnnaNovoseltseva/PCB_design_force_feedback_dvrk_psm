@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+5V Pin=R6-2
+Removed Pin From Net: NetName=NetR6_1 Pin=R?-2
+Removed Pin From Net: NetName=NetR6_1 Pin=U3-5
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Added Component: Designator=R18(RESC1608X55X25ML10T15)
+Added Pin To Net: NetName=NetR6_1 Pin=R14-2
+Added Pin To Net: NetName=+5V Pin=R6-2
+Added Pin To Net: NetName=NetR6_1 Pin=U1-5
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=R6-1
+Added Pin To Net: NetName=NetR17_2 Pin=U3-5
+Added Net: Name=NetR17_2
+Added Member To Class: ClassName=Sheet1 Member=Component R12 500
+Added Member To Class: ClassName=Sheet1 Member=Component R13 20k
+Added Member To Class: ClassName=Sheet1 Member=Component R14 20k
+Added Member To Class: ClassName=Sheet1 Member=Component R15 500
+Added Member To Class: ClassName=Sheet1 Member=Component R17 20k
+Added Member To Class: ClassName=Sheet1 Member=Component R18 1k

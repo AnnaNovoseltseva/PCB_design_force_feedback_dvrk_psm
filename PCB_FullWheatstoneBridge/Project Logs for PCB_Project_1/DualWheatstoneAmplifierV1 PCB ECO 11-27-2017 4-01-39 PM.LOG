@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetP2_Amp1_1 Pin=U4_Amp1-2
+Removed Pin From Net: NetName=NetP2_Amp1_4 Pin=U4_Amp1-3
+Removed Pin From Net: NetName=NetP2_Amp2_1 Pin=U4_Amp2-2
+Removed Pin From Net: NetName=NetP2_Amp2_4 Pin=U4_Amp2-3
+Added Pin To Net: NetName=NetP2_Amp1_4 Pin=U4_Amp1-2
+Added Pin To Net: NetName=NetP2_Amp1_1 Pin=U4_Amp1-3
+Added Pin To Net: NetName=NetP2_Amp2_4 Pin=U4_Amp2-2
+Added Pin To Net: NetName=NetP2_Amp2_1 Pin=U4_Amp2-3

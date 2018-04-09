@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=+5V Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=+5V Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=+5V Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=+5V Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=-5V Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18_Amp1-1
+Removed Pin From Net: NetName=-5V Pin=C18_Amp1-2
+Removed Pin From Net: NetName=GND Pin=C18_Amp2-1
+Removed Pin From Net: NetName=-5V Pin=C18_Amp2-2
+Removed Pin From Net: NetName=GND Pin=C19_Amp1-1
+Removed Pin From Net: NetName=-5V Pin=C19_Amp1-2
+Removed Pin From Net: NetName=GND Pin=C19_Amp2-1
+Removed Pin From Net: NetName=-5V Pin=C19_Amp2-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=-5V Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=+5V Pin=C25-2
+Change Component DesignItemId : Designator=C3 Old DesignItemId=CMP-1663-00002-4 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C15 Old DesignItemId=CMP-1663-00002-4 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C19_Amp1 Old DesignItemId=CMP-1663-00002-4 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C19_Amp2 Old DesignItemId=CMP-1663-00002-4 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C20 Old DesignItemId=CMP-1663-00002-4 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C2 Old DesignItemId=CMP-2000-05987-1 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C13 Old DesignItemId=CMP-2000-05987-1 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C17 Old DesignItemId=CMP-2000-05987-1 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C18_Amp1 Old DesignItemId=CMP-2000-05987-1 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C18_Amp2 Old DesignItemId=CMP-2000-05987-1 New DesignItemId=Cap Semi
+Change Component Footprint: Designator=C2 Old Footprint=CAPC1608X87X35ML15T15 New Footprint=1608[0603]
+Change Component Footprint: Designator=C13 Old Footprint=CAPC1608X87X35ML15T15 New Footprint=1608[0603]
+Change Component Footprint: Designator=C17 Old Footprint=CAPC1608X87X35ML15T15 New Footprint=1608[0603]
+Change Component Footprint: Designator=C18_Amp1 Old Footprint=CAPC1608X87X35ML15T15 New Footprint=1608[0603]
+Change Component Footprint: Designator=C18_Amp2 Old Footprint=CAPC1608X87X35ML15T15 New Footprint=1608[0603]
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1608X90X20NL10 New Footprint=1608[0603]
+Change Component Footprint: Designator=C15 Old Footprint=CAPC1608X90X20NL10 New Footprint=1608[0603]
+Change Component Footprint: Designator=C19_Amp1 Old Footprint=CAPC1608X90X20NL10 New Footprint=1608[0603]
+Change Component Footprint: Designator=C19_Amp2 Old Footprint=CAPC1608X90X20NL10 New Footprint=1608[0603]
+Change Component Footprint: Designator=C20 Old Footprint=CAPC1608X90X20NL10 New Footprint=1608[0603]
+Change Component Comment : Designator=C2 Old Comment=0.01uF New Comment=Cap Semi
+Change Component Comment : Designator=C13 Old Comment=0.01uF New Comment=Cap Semi
+Change Component Comment : Designator=C17 Old Comment=0.01uF New Comment=Cap Semi
+Change Component Comment : Designator=C18_Amp1 Old Comment=0.01uF New Comment=Cap Semi
+Change Component Comment : Designator=C18_Amp2 Old Comment=0.01uF New Comment=Cap Semi
+Change Component Comment : Designator=C15 Old Comment=1u New Comment=Cap Semi
+Change Component Comment : Designator=C19_Amp1 Old Comment=1u New Comment=Cap Semi
+Change Component Comment : Designator=C19_Amp2 Old Comment=1u New Comment=Cap Semi
+Change Component Comment : Designator=C20 Old Comment=1u New Comment=Cap Semi
+Change Component Comment : Designator=C3 Old Comment=1uF New Comment=Cap Semi
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=+5V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+5V Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=+5V Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=-5V Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=-5V Pin=C18_Amp1-1
+Added Pin To Net: NetName=GND Pin=C18_Amp1-2
+Added Pin To Net: NetName=-5V Pin=C18_Amp2-1
+Added Pin To Net: NetName=GND Pin=C18_Amp2-2
+Added Pin To Net: NetName=-5V Pin=C19_Amp1-1
+Added Pin To Net: NetName=GND Pin=C19_Amp1-2
+Added Pin To Net: NetName=-5V Pin=C19_Amp2-1
+Added Pin To Net: NetName=GND Pin=C19_Amp2-2
+Added Pin To Net: NetName=-5V Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=+5V Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2

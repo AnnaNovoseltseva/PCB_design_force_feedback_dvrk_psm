@@ -1,0 +1,5 @@
+Added Component: Designator=R(Trimpot_Cut_tape_3.4x3.4x2)
+Added Pin To Net: NetName=+5V Pin=R11-1
+Added Pin To Net: NetName=+5V Pin=R-2
+Added Pin To Net: NetName=NetR9_2 Pin=R-3
+Added Member To Class: ClassName=Sheet1 Member=Component R 20k

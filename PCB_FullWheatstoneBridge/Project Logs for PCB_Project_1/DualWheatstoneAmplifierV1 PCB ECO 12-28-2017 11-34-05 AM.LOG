@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+5V Pin=R7_Amp1-2
+Removed Pin From Net: NetName=+5V Pin=R7_Amp2-2
+Removed Pin From Net: NetName=+5V Pin=R8_Amp1-2
+Removed Pin From Net: NetName=+5V Pin=R8_Amp2-2
+Removed Member From Class: ClassName=Amp1 Member=R7_Amp1
+Removed Member From Class: ClassName=Amp2 Member=R7_Amp2
+Removed Member From Class: ClassName=Amp1 Member=R8_Amp1
+Removed Member From Class: ClassName=Amp2 Member=R8_Amp2
+Added Pin To Net: NetName=+5V Pin=P2_Amp1-1
+Added Pin To Net: NetName=+5V Pin=P2_Amp1-4
+Added Pin To Net: NetName=+5V Pin=P2_Amp2-1
+Added Pin To Net: NetName=+5V Pin=P2_Amp2-4
+Added Pin To Net: NetName=+5V Pin=U4_Amp1-2
+Added Pin To Net: NetName=+5V Pin=U4_Amp1-3
+Added Pin To Net: NetName=+5V Pin=U4_Amp2-2
+Added Pin To Net: NetName=+5V Pin=U4_Amp2-3
+Change Net Name : Old Net Name=+5V New Net Name=AMP_INPUT_NEG_Amp1

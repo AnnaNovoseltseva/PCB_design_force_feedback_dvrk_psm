@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=AMP_REF_V_Amp1 Pin=R13_Amp1-1
+Removed Pin From Net: NetName=-5V Pin=R13_Amp1-2
+Removed Pin From Net: NetName=AMP_REF_V_Amp2 Pin=R13_Amp2-1
+Removed Pin From Net: NetName=-5V Pin=R13_Amp2-2
+Added Pin To Net: NetName=AMP_REF_V_Amp1 Pin=R13_Amp1-2
+Added Pin To Net: NetName=-5V Pin=R13_Amp1-3
+Added Pin To Net: NetName=AMP_REF_V_Amp2 Pin=R13_Amp2-2
+Added Pin To Net: NetName=-5V Pin=R13_Amp2-3

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=P5-8
+Change Component DesignItemId : Designator=P5 Old DesignItemId=Header 8 New DesignItemId=Header 5
+Change Component Footprint: Designator=P5 Old Footprint=HDR1X8 New Footprint=HDR1X5
+Change Component Comment : Designator=P5 Old Comment=Header 8 New Comment=Header 5
+Added Pin To Net: NetName=GND Pin=P5-5

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=AMP_INPUT_NEG_Amp1 Pin=P2_Amp1-1
+Removed Pin From Net: NetName=-5V Pin=P2_Amp1-2
+Removed Pin From Net: NetName=-5V Pin=P2_Amp1-3
+Removed Pin From Net: NetName=AMP_INPUT_NEG_Amp1 Pin=P2_Amp2-1
+Removed Pin From Net: NetName=-5V Pin=P2_Amp2-2
+Removed Pin From Net: NetName=-5V Pin=P2_Amp2-3
+Removed Pin From Net: NetName=AMP_INPUT_NEG_Amp1 Pin=U4_Amp1-2
+Removed Pin From Net: NetName=AMP_INPUT_NEG_Amp1 Pin=U4_Amp1-3
+Removed Pin From Net: NetName=AMP_INPUT_NEG_Amp1 Pin=U4_Amp2-2
+Removed Pin From Net: NetName=AMP_INPUT_NEG_Amp1 Pin=U4_Amp2-3
+Added Pin To Net: NetName=-5V Pin=P2_Amp1-1
+Added Pin To Net: NetName=-5V Pin=P2_Amp2-1
+Change Net Name : Old Net Name=AMP_INPUT_NEG_Amp1 New Net Name=+5V
+Added Pin To Net: NetName=AMP_INPUT_NEG_Amp1 Pin=P2_Amp1-3
+Added Pin To Net: NetName=AMP_INPUT_NEG_Amp1 Pin=U4_Amp1-2
+Added Net: Name=AMP_INPUT_NEG_Amp1
+Added Pin To Net: NetName=AMP_INPUT_NEG_Amp2 Pin=P2_Amp2-3
+Added Pin To Net: NetName=AMP_INPUT_NEG_Amp2 Pin=U4_Amp2-2
+Added Net: Name=AMP_INPUT_NEG_Amp2
+Added Pin To Net: NetName=AMP_INPUT_POS_Amp1 Pin=P2_Amp1-2
+Added Pin To Net: NetName=AMP_INPUT_POS_Amp1 Pin=U4_Amp1-3
+Added Net: Name=AMP_INPUT_POS_Amp1
+Added Pin To Net: NetName=AMP_INPUT_POS_Amp2 Pin=P2_Amp2-2
+Added Pin To Net: NetName=AMP_INPUT_POS_Amp2 Pin=U4_Amp2-3
+Added Net: Name=AMP_INPUT_POS_Amp2

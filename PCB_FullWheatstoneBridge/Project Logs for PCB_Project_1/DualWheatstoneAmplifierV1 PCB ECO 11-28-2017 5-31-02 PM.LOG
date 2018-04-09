@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=P1 Old DesignItemId=CMP-0617-00010-1 New DesignItemId=Header 3
+Change Component Footprint: Designator=P1 Old Footprint=SCREW-5.0-3WAYS_V New Footprint=HDR1X3
+Change Component Comment : Designator=P1 Old Comment=3CON New Comment=Header 3

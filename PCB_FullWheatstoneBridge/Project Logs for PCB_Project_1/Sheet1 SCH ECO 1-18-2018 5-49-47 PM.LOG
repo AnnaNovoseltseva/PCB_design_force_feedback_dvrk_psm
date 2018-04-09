@@ -1,0 +1,2 @@
+Remove Pin=R2-2 From Net=MOSI
+Remove Pin=R3-2 From Net=MISO

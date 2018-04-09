@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=C16_Amp1 Old DesignItemId=CMP-1663-00002-4 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C16_Amp2 Old DesignItemId=CMP-1663-00002-4 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C14_Amp1 Old DesignItemId=CMP-2000-05987-1 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C14_Amp2 Old DesignItemId=CMP-2000-05987-1 New DesignItemId=Cap Semi
+Change Component Footprint: Designator=C14_Amp1 Old Footprint=CAPC1608X87X35ML15T15 New Footprint=1608[0603]
+Change Component Footprint: Designator=C14_Amp2 Old Footprint=CAPC1608X87X35ML15T15 New Footprint=1608[0603]
+Change Component Footprint: Designator=C16_Amp1 Old Footprint=CAPC1608X90X20NL10 New Footprint=1608[0603]
+Change Component Footprint: Designator=C16_Amp2 Old Footprint=CAPC1608X90X20NL10 New Footprint=1608[0603]
+Change Component Comment : Designator=C14_Amp1 Old Comment=0.01uF New Comment=Cap Semi
+Change Component Comment : Designator=C14_Amp2 Old Comment=0.01uF New Comment=Cap Semi
+Change Component Comment : Designator=C16_Amp1 Old Comment=1u New Comment=Cap Semi
+Change Component Comment : Designator=C16_Amp2 Old Comment=1u New Comment=Cap Semi

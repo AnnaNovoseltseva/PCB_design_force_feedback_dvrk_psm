@@ -1,0 +1,25 @@
+﻿Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project_1.PrjPcb|ReportField=ProjectFullPath~R:\PCB_design\PCB_WB_SG_2\PCB_FullWheatstoneBridge\PCB_Project_1.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project_1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~74|ReportField=ReportTime~12:23:17 PM|ReportField=ReportDate~2/2/2018|ReportField=ReportDateTime~2/2/2018 12:23:17 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2/2/2018|ReportField=CurrentTime~12:23:06 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~R:\PCB_design\PCB_WB_SG_2\PCB_FullWheatstoneBridge\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~1/18/2018|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.00:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A4:PaperIndex=9|ReportField=ProjectName~PCB_Project_1.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project_1.PrjPcb|ReportField=DataSourceFullPath~R:\PCB_design\PCB_WB_SG_2\PCB_FullWheatstoneBridge\PCB_Project_1.PrjPcb
+150060RS75000|SMD mono-color Chip LED, WL-SMCW, Red|5V, D1, RX1, TX1|0603_A|CMP-1426-00001-1|4
+Cap Semi|Capacitor (Semiconductor SIM Model)|C2, C3, C4, C5, C6, C9, C10, C13, C14_Amp1, C14_Amp2, C16_Amp1, C16_Amp2, C17, C18_Amp1, C18_Amp2, C19_Amp1, C19_Amp2, C23, C24, C25, C26, C27, C28, C29, C30, C31|1608[0603]|Cap Semi|26
+TAJA475K016RNJ|Standard Tantalum, 4.7 uF, +/- 10%, 16 V, -55 to 125 degC, 2-Pin SMD (1206), RoHS, Tape and Reel|C7, C8|AVX-TAJ-A-2_N|CMP-2100-03687-1|2
+10118192-0001LF|Micro USB B Type Receptacle, -55 to 85 degC, 5-Pin SMD, RoHS, Tape and Reel|J1|FCI-10118192-0001LF-5_V|CMP-2000-05118-1|1
+Header 3|Header, 3-Pin|P1, P3|HDR1X3|Header 3|2
+SG|Male Header, Pitch 2.54 mm, 1 x 4 Position, Height 14.199 mm, Tail Length 3.302 mm, -55 to 105 degC, RoHS, Rail/Tube|P2_Amp1, P2_Amp2|TECO-5-103414-2_V|CMP-2000-05625-1|2
+Header 5|Header, 5-Pin|P5|HDR1X5|Header 5|1
+Header 3X2|Header, 3-Pin, Dual row|P6|HDR2X3|Header 3X2|1
+Res3|Resistor|R1, R2, R3, R4, R23, R24, R25, R26, R27|J1-0603|Res3|9
+500||R5_Amp1, R5_Amp2|Trimpot_Cut_tape_3.4x3.4x2|Component_1|2
+510|510R 0.1W 5% 0603 (1608 Metric)  SMD|R6_Amp1, R6_Amp2|RESC0603(1608)_L|CMP-1012-00067-1|2
+10k|Chip Resistor, 1 KOhm, +/-1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel|R9, R18|RESC1608X55X25ML10T15|CMP-1659-00009-3|2
+200k|Chip Resistor, 1 KOhm, +/-1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel|R10, R19|RESC1608X55X25ML10T15|CMP-1659-00009-3|2
+20k||R11, R13_Amp1, R13_Amp2, R20|Trimpot_Cut_tape_3.4x3.4x2|Component_1|4
+1k|Chip Resistor, 1 KOhm, +/-1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel|R12_Amp1, R12_Amp2, R28_Amp1, R28_Amp2|RESC1608X55X25ML10T15|CMP-1659-00009-3|4
+430152043826|WS-TASV SMD Tact Switch 6X6 mm|SW1|430152043826|CMP-1452-00001-1|1
+ATmega88PA-AUR|8-bit AVR Microcontroller, 8KB Flash, 512 Bytes EEPROM, 1KB SRAM, 32-pin TQFP, Industrial Grade (-40°C to 85°C), Reel|U1|32A_N|CMP-0095-00212-2|1
+ADC_LTC1865||U2|LTC1865_SOIC8|ADC_LTC1865|1
+LM7805ACT|Positive Voltage Regulator, 5 V, 1 A, 0 to 125 degC, 3-Pin TO-220, RoHS, Tube|U3|FAIR-TO-220-3|CMP-2000-04937-1|1
+LT1920|Single Channel, Resistor Gain Programmable, Precision Instrumentation Operational Amplifier, 0.8 MHz Typical GBW, 1.2 V/us Typical SR, 4.6 to 40 V, 8-Pin SOIC (S8-8), Commercial, Pb-Free|U4_Amp1, U4_Amp2|LT-S8-8_L|CMP-0359-03370-2|2
+NE5532ADR|Dual Low-Noise Operational Amplifier, 10 to 30 V, 0 to 70 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br)|U5|D0008A_M|CMP-0017-00450-2|1
+LM7905CT/NOPB|3-Terminal Negative Regulator, 3-pin TO-220, Pb-Free|U6|NDE0003A|CMP-0062-02481-3|1
+FT232RL-Reel|USB UART Asynchronous Serial Data Transfer Chip, 28-pin SSOP, Tape and Reel|U7|SSOP-28_L|CMP-0078-00029-3|1
+ABLS2-16.000MHZ-D4Y-T|Low Profile Surface Mount Microprocessor Crystal, 16.000 MHz +/-30 ppm, 180 Ohm, -40 to 85 degC, 2-Pin 11.4 x 4.7 x 3.3 mm SMD, RoHS, Tape and Reel|X1|ABRA-ABLS2-2_V|CMP-0277-00002-1|1
